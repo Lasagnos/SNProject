@@ -7,7 +7,7 @@ University project for the course *Social Network Analysys*, Università di Bolo
 **Students**: Angelo Greco, Francesca Mazzetti, Gianpiero Giuseppe Tovo, Giuseppe Scafa
 
 ========
-## File info
+## Files and Directory info
 
 In the `Dataset` folder, there are the networks obtained from the "Montagna" italian police operation. The 'Anonymized' version lacks personal details from the subjects, present instead in the 'Original' verison's `Montagna_Roles.csv`.
 
@@ -26,12 +26,12 @@ Simplified example: A) we want to study which nodes are in the core of the studi
 
 ### Requirements checklist
 
-[.] It is clear how many networks you are going to analyse and their shape (monomodal, bipartite, etc.).
+* It is clear how many networks you are going to analyse and their shape (monomodal, bipartite, etc.).
 
-[.] For each network in the study, it is clear what are the nodes and what are the edges (when there exists an edge between nodes) and whether these are oriented or not.
+* For each network in the study, it is clear what are the nodes and what are the edges (when there exists an edge between nodes) and whether these are oriented or not.
 
-[.] You apply a wide-enough range and number of measures to describe the phenomena you want to study (measures include centrality, groups, clustering, redundancy, equivalences, homophily, small-worldness, scale freedom, cohesion, connectedness, compactness, triad census, core-periphery, etc.).
+* You apply a wide-enough range and number of measures to describe the phenomena you want to study (measures include centrality, groups, clustering, redundancy, equivalences, homophily, small-worldness, scale freedom, cohesion, connectedness, compactness, triad census, core-periphery, etc.).
 
-[.] For each measure, you explain why you apply it (what phenomenon you investigate with it) and what semantics the measure has for your network (e.g., on a transport network, you apply betweenness centrality to find its most important junctions, since it measures the extent to which a node lies on paths between other nodes).
+* For each measure, you explain why you apply it (what phenomenon you investigate with it) and what semantics the measure has for your network (e.g., on a transport network, you apply betweenness centrality to find its most important junctions, since it measures the extent to which a node lies on paths between other nodes).
 
-[.] The effort behind the study is appropriate for the number of students behind the project. Suggestion: projects can consider applying the same study design on different networks, to compare these (qualitatively and/or quantitatively) through the results of the same array of measures.
+* The effort behind the study is appropriate for the number of students behind the project. Suggestion: projects can consider applying the same study design on different networks, to compare these (qualitatively and/or quantitatively) through the results of the same array of measures.
