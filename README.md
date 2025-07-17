@@ -16,6 +16,12 @@ In the `Project template` folder, there are two templates (one in latex and the 
 In the `Similiar projects` folder, there are code snippets and implementations of similiar studies. Currently, only the network disruption project (from the paper https://arxiv.org/pdf/2003.05303v1) is present.
 
 ========
+## Files and Directory info
+It appears that the dataset we have is different from the one used on papers from which we based our analysis.
+We could use the anonymized dataset from one of these papers, or we could proceed with the original dataset.
+Note: even in the anonymized dataset, there are slight discrepancies, for reasons not understood (in the paper, the phone calls network's max edge weight is 8, ours is 7. Similiarlì, the Max. Shortest Path of the same phone network is 14, ours is 7).
+
+========
 ## Project requirements
 
 The exam’s hand-in consists of a report in PDF format of **at most 5000 words** (also after revisions) — approximately, these correspond to 30k characters and 9–10 pages. *Reports that exceed the word count will be penalised*. The report shall detail the context, the problem/motivation, the data, the measures applied, and the results obtained (along with their qualitative interpretation). 
