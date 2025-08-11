@@ -1,4 +1,4 @@
-# Report XXXXX
+# Report - Comparative Analysis of Interaction Layers in Criminal Networks
 
 University project for the course *Social Network Analysys*, Università di Bologna, *y.2024/2025*
 
@@ -9,17 +9,11 @@ University project for the course *Social Network Analysys*, Università di Bolo
 ========
 ## Files and Directory info
 
-In the `Dataset` folder, there are the networks obtained from the "Montagna" italian police operation. The 'Anonymized' version lacks personal details from the subjects, present instead in the 'Original' verison's `Montagna_Roles.csv`.
-
-In the `Project template` folder, there are two templates (one in latex and the other as a .docx) for the report. Requirements: **A4 single-column layout, 1-line spacing, 3cm margins, 12pt font (Times or equivalent), and they must be in PDF format**.
-
-In the `Similiar projects` folder, there are code snippets and implementations of similiar studies. Currently, only the network disruption project (from the paper https://arxiv.org/pdf/2003.05303v1) is present.
+In the `Dataset` folder, there are the networks obtained from the "Montagna" italian police operation. The 'Original' version is the one downloaded on [zenodo](https://zenodo.org/records/3938818), while the 'Cleaned' verison'is the one resulting from the execution of `DatasetCleaning.ipynb`.
 
 ========
 ## Files and Directory info
-It appears that the dataset we have is different from the one used on papers from which we based our analysis.
-We could use the anonymized dataset from one of these papers, or we could proceed with the original dataset.
-Note: even in the anonymized dataset, there are slight discrepancies, for reasons not understood (in the paper, the phone calls network's max edge weight is 8, ours is 7. Similiarlì, the Max. Shortest Path of the same phone network is 14, ours is 7).
+...
 
 ========
 ## Project requirements
