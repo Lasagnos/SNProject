@@ -1,6 +1,6 @@
 # Report - Comparative Analysis of Interaction Layers in Criminal Networks
 
-University project for the course *Social Network Analysys*, Università di Bologna, year *2024/2025*
+University project for the course *Social Network Analysys*, Università di Bologna, *year 2024/2025*
 
 **Professor**: Saverio Giallorenzo
 
