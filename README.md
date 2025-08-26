@@ -1,6 +1,6 @@
 # Report - Comparative Analysis of Interaction Layers in Criminal Networks
 
-University project for the course *Social Network Analysys*, Università di Bologna, *y.2024/2025*
+University project for the course *Social Network Analysys*, Università di Bologna, year *2024/2025*
 
 **Professor**: Saverio Giallorenzo
 
@@ -22,7 +22,7 @@ We apply structural and centrality measures, as well as many others (homophily a
 
 In the `Dataset` folder, there are the networks obtained from the "Montagna" italian police operation. The 'Original' version is the one downloaded on [zenodo](https://zenodo.org/records/3938818)
 
-All data preprocessing steps are performed in `DatasetCleaning.ipynb`, which cleans the edge lists for Meetings and Phone Calls network by removing self-loops and duplicate edges (which are then aggregated by weight).
+All data preprocessing steps are performed in `DatasetCleaning.ipynb`, which cleans the edge lists for Meetings and Phone Calls network, and removes any eventual self-loop and duplicate edges (which are then aggregated by weight) present.
 It then applies similiar cleaning procedures to the 'Roles' file, and saves the resulting data in the 'Cleaned' dataset.
 
 All operations in the main `Project.ipynb` file are applied on the 'Cleaned' dataset.
